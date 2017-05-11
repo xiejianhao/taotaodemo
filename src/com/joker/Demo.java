@@ -5,5 +5,6 @@ public class Demo {
 		double i=0;
 		System.out.println(i);
 		 System.out.println("123xiejh123");
+		 System.out.println("cs信息");
 	}
 }
