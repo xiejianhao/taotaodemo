@@ -1,6 +1,9 @@
 package com.joker;
 
+import java.util.Date;
+
 public class Customer {
-    String xiejh;
+    String name;
     int age;
+    Date birtime;
 }
